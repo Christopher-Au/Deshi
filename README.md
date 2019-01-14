@@ -1,0 +1,2 @@
+# Deshi
+acceptable strings
